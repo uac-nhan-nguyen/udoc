@@ -1,7 +1,7 @@
 {
   "name": "udoc",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "bin": {
-    "udoc": "node ./bin/cli.js"
+    "udoc": "bin/cli.js"
   }
 }
