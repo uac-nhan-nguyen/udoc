@@ -1,4 +1,6 @@
 {
+  "name": "udoc",
+  "version": "0.0.1",
   "bin": {
     "udoc": "bin/cli.js"
   }
